@@ -1,0 +1,6 @@
+/*
+!*/TrafficLight/FsmController.v
+!*/TrafficLight/TrafficInterface.v
+!*/TrafficLight/TimerController.v
+
+!*.gitignore
